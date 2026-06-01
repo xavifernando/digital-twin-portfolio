@@ -1,4 +1,4 @@
-# digital-twin-portfolio
+# Digital-twin-portfolio
 # M1: IIoT Sensor Dashboard
 
 ## What It Does
